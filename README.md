@@ -1,0 +1,5 @@
+![Screenshot (142)](https://github.com/pareshkharche/Django-CRUD-App-/assets/80632983/bf6a660a-ad80-4374-875e-3f475aa9142d)
+![Screenshot (143)](https://github.com/pareshkharche/Django-CRUD-App-/assets/80632983/fb2236d2-b4b1-414a-a3c7-d0bf06957d80)
+![Screenshot (144)](https://github.com/pareshkharche/Django-CRUD-App-/assets/80632983/6fd76ed7-4a1c-4c8c-8b6c-e17d9788c2b0)
+![Screenshot (145)](https://github.com/pareshkharche/Django-CRUD-App-/assets/80632983/a0430f4d-09ec-4e96-ad78-eca41f4aefd2)
+![Screenshot (146)](https://github.com/pareshkharche/Django-CRUD-App-/assets/80632983/66967ec7-e367-4f32-ad3f-6ebbcbee9e30)
